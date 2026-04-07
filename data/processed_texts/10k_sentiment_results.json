@@ -1,0 +1,365 @@
+[
+  {
+    "ticker": "AAPL",
+    "accession": "0000320193-22-000108",
+    "sentiment_metrics": {
+      "positive": 0.045339426750110254,
+      "negative": 0.5455489660923679,
+      "neutral": 0.4091116065366401,
+      "sentiment_score": -0.5002095393422576,
+      "total_chunks": 45
+    }
+  },
+  {
+    "ticker": "AAPL",
+    "accession": "0000320193-23-000106",
+    "sentiment_metrics": {
+      "positive": 0.06025025835477336,
+      "negative": 0.5110713086892352,
+      "neutral": 0.4286784306168556,
+      "sentiment_score": -0.45082105033446185,
+      "total_chunks": 43
+    }
+  },
+  {
+    "ticker": "AAPL",
+    "accession": "0000320193-24-000123",
+    "sentiment_metrics": {
+      "positive": 0.06988532290878621,
+      "negative": 0.4631459297273647,
+      "neutral": 0.4669687492264943,
+      "sentiment_score": -0.39326060681857844,
+      "total_chunks": 44
+    }
+  },
+  {
+    "ticker": "AAPL",
+    "accession": "0000320193-25-000079",
+    "sentiment_metrics": {
+      "positive": 0.04344465769827366,
+      "negative": 0.5303937691179189,
+      "neutral": 0.4261615623465993,
+      "sentiment_score": -0.48694911141964525,
+      "total_chunks": 44
+    }
+  },
+  {
+    "ticker": "AMD",
+    "accession": "0000002488-22-000016",
+    "sentiment_metrics": {
+      "positive": 0.07775548783441384,
+      "negative": 0.4550654887938979,
+      "neutral": 0.4671790297946026,
+      "sentiment_score": -0.3773100009594841,
+      "total_chunks": 87
+    }
+  },
+  {
+    "ticker": "AMD",
+    "accession": "0000002488-23-000047",
+    "sentiment_metrics": {
+      "positive": 0.07100808161955613,
+      "negative": 0.4459085962325744,
+      "neutral": 0.4830833328785477,
+      "sentiment_score": -0.37490051461301827,
+      "total_chunks": 91
+    }
+  },
+  {
+    "ticker": "AMD",
+    "accession": "0000002488-24-000012",
+    "sentiment_metrics": {
+      "positive": 0.07876698448700775,
+      "negative": 0.44492122689538666,
+      "neutral": 0.47631178822110193,
+      "sentiment_score": -0.3661542424083789,
+      "total_chunks": 101
+    }
+  },
+  {
+    "ticker": "AMD",
+    "accession": "0000002488-25-000012",
+    "sentiment_metrics": {
+      "positive": 0.07486391182950076,
+      "negative": 0.45841724024891545,
+      "neutral": 0.4667188442933063,
+      "sentiment_score": -0.3835533284194147,
+      "total_chunks": 96
+    }
+  },
+  {
+    "ticker": "AMD",
+    "accession": "0000002488-26-000018",
+    "sentiment_metrics": {
+      "positive": 0.08505840236228882,
+      "negative": 0.45364406270592816,
+      "neutral": 0.4612975309021992,
+      "sentiment_score": -0.3685856603436394,
+      "total_chunks": 101
+    }
+  },
+  {
+    "ticker": "GOOG",
+    "accession": "0001652044-22-000019",
+    "sentiment_metrics": {
+      "positive": 0.07707130632895444,
+      "negative": 0.44315676181577146,
+      "neutral": 0.4797719291278294,
+      "sentiment_score": -0.36608545548681704,
+      "total_chunks": 56
+    }
+  },
+  {
+    "ticker": "GOOG",
+    "accession": "0001652044-23-000016",
+    "sentiment_metrics": {
+      "positive": 0.0798378146898288,
+      "negative": 0.4734510515565769,
+      "neutral": 0.44671112585526246,
+      "sentiment_score": -0.3936132368667481,
+      "total_chunks": 52
+    }
+  },
+  {
+    "ticker": "GOOG",
+    "accession": "0001652044-24-000022",
+    "sentiment_metrics": {
+      "positive": 0.07611355349293043,
+      "negative": 0.4161225563107893,
+      "neutral": 0.5077638946602057,
+      "sentiment_score": -0.3400090028178589,
+      "total_chunks": 58
+    }
+  },
+  {
+    "ticker": "GOOG",
+    "accession": "0001652044-25-000014",
+    "sentiment_metrics": {
+      "positive": 0.07871038796471767,
+      "negative": 0.4130642123398234,
+      "neutral": 0.5082254089170792,
+      "sentiment_score": -0.3343538243751057,
+      "total_chunks": 61
+    }
+  },
+  {
+    "ticker": "GOOG",
+    "accession": "0001652044-26-000018",
+    "sentiment_metrics": {
+      "positive": 0.07112811491342969,
+      "negative": 0.4227835092661453,
+      "neutral": 0.5060883754029356,
+      "sentiment_score": -0.3516553943527156,
+      "total_chunks": 58
+    }
+  },
+  {
+    "ticker": "META",
+    "accession": "0001326801-22-000018",
+    "sentiment_metrics": {
+      "positive": 0.046749403633110156,
+      "negative": 0.5110519248320982,
+      "neutral": 0.4421986688163366,
+      "sentiment_score": -0.464302521198988,
+      "total_chunks": 111
+    }
+  },
+  {
+    "ticker": "META",
+    "accession": "0001326801-23-000013",
+    "sentiment_metrics": {
+      "positive": 0.05494619070187859,
+      "negative": 0.4581633451192275,
+      "neutral": 0.48689046686758164,
+      "sentiment_score": -0.40321715441734896,
+      "total_chunks": 115
+    }
+  },
+  {
+    "ticker": "META",
+    "accession": "0001326801-24-000012",
+    "sentiment_metrics": {
+      "positive": 0.052702867869107474,
+      "negative": 0.4516657606863807,
+      "neutral": 0.49563137127927714,
+      "sentiment_score": -0.3989628928172732,
+      "total_chunks": 124
+    }
+  },
+  {
+    "ticker": "META",
+    "accession": "0001326801-25-000017",
+    "sentiment_metrics": {
+      "positive": 0.05274670048961489,
+      "negative": 0.45874927700387214,
+      "neutral": 0.4885040282264469,
+      "sentiment_score": -0.40600257651425725,
+      "total_chunks": 127
+    }
+  },
+  {
+    "ticker": "META",
+    "accession": "0001628280-26-003942",
+    "sentiment_metrics": {
+      "positive": 0.05052721277030745,
+      "negative": 0.47093536805482655,
+      "neutral": 0.4785374205832074,
+      "sentiment_score": -0.4204081552845191,
+      "total_chunks": 123
+    }
+  },
+  {
+    "ticker": "MSFT",
+    "accession": "0000950170-23-035122",
+    "sentiment_metrics": {
+      "positive": 0.1545155631148652,
+      "negative": 0.28438749503701516,
+      "neutral": 0.561096936770498,
+      "sentiment_score": -0.12987193192214996,
+      "total_chunks": 73
+    }
+  },
+  {
+    "ticker": "MSFT",
+    "accession": "0000950170-24-087843",
+    "sentiment_metrics": {
+      "positive": 0.12663257349836263,
+      "negative": 0.3129431077002271,
+      "neutral": 0.5604243161207115,
+      "sentiment_score": -0.18631053420186447,
+      "total_chunks": 74
+    }
+  },
+  {
+    "ticker": "MSFT",
+    "accession": "0000950170-25-100235",
+    "sentiment_metrics": {
+      "positive": 0.03990826531002919,
+      "negative": 0.0946164842648736,
+      "neutral": 0.8654752504533413,
+      "sentiment_score": -0.05470821895484441,
+      "total_chunks": 3825
+    }
+  },
+  {
+    "ticker": "MSFT",
+    "accession": "0001564590-22-026876",
+    "sentiment_metrics": {
+      "positive": 0.13248269739286864,
+      "negative": 0.32507762174560306,
+      "neutral": 0.5424396792317138,
+      "sentiment_score": -0.19259492435273443,
+      "total_chunks": 68
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "accession": "0001045810-22-000036",
+    "sentiment_metrics": {
+      "positive": 0.04927180980642636,
+      "negative": 0.6699996096185512,
+      "neutral": 0.2807285864320066,
+      "sentiment_score": -0.6207277998121249,
+      "total_chunks": 45
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "accession": "0001045810-23-000017",
+    "sentiment_metrics": {
+      "positive": 0.04700693191791123,
+      "negative": 0.6685238583182747,
+      "neutral": 0.2844692040573467,
+      "sentiment_score": -0.6215169264003634,
+      "total_chunks": 55
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "accession": "0001045810-24-000029",
+    "sentiment_metrics": {
+      "positive": 0.062371071385076415,
+      "negative": 0.6495519624593166,
+      "neutral": 0.28807696800392407,
+      "sentiment_score": -0.5871808910742402,
+      "total_chunks": 65
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "accession": "0001045810-25-000023",
+    "sentiment_metrics": {
+      "positive": 0.0641418970895536,
+      "negative": 0.6357724296747509,
+      "neutral": 0.30008568118015927,
+      "sentiment_score": -0.5716305325851972,
+      "total_chunks": 66
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "accession": "0001045810-26-000021",
+    "sentiment_metrics": {
+      "positive": 0.02532286595669575,
+      "negative": 0.7148024946800433,
+      "neutral": 0.2598746390431188,
+      "sentiment_score": -0.6894796287233476,
+      "total_chunks": 64
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "accession": "0000950170-22-000796",
+    "sentiment_metrics": {
+      "positive": 0.09133141304233244,
+      "negative": 0.444786709440606,
+      "neutral": 0.4638818749359676,
+      "sentiment_score": -0.35345529639827356,
+      "total_chunks": 70
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "accession": "0000950170-23-001409",
+    "sentiment_metrics": {
+      "positive": 0.0998314928693267,
+      "negative": 0.4162899223657755,
+      "neutral": 0.48387859056775384,
+      "sentiment_score": -0.3164584294964488,
+      "total_chunks": 65
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "accession": "0001628280-24-002390",
+    "sentiment_metrics": {
+      "positive": 0.10187174322513434,
+      "negative": 0.40542852356313513,
+      "neutral": 0.4926997362421109,
+      "sentiment_score": -0.3035567803380008,
+      "total_chunks": 65
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "accession": "0001628280-25-003063",
+    "sentiment_metrics": {
+      "positive": 0.113052694349369,
+      "negative": 0.38986336430117713,
+      "neutral": 0.4970839482301207,
+      "sentiment_score": -0.27681066995180814,
+      "total_chunks": 67
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "accession": "0001628280-26-003952",
+    "sentiment_metrics": {
+      "positive": 0.0962284410844988,
+      "negative": 0.4124547657209323,
+      "neutral": 0.4913167889549661,
+      "sentiment_score": -0.3162263246364335,
+      "total_chunks": 67
+    }
+  }
+]
